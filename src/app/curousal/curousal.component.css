@@ -1,0 +1,13 @@
+/* img {
+    width: 297px;
+    height: 180px;
+  }
+  .card-body {
+    width: 300;  
+    height: 190px;
+  } */
+
+  .people li {
+    display: inline;
+    white-space: nowrap
+  }
